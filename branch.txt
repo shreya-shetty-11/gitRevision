@@ -1,0 +1,7 @@
+git branch <branch_name>
+
+* To move to a particular branch
+git checkout <branch_name>
+
+* To delete a branch
+git branch -d <branch_name>
