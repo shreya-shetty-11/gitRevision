@@ -1,0 +1,3 @@
+* git remote -v
+* git remote add origin ssh-link
+* git remote rename origin new_name
