@@ -1,0 +1,2 @@
+Branching allows you and your team to switch between contexts without worrying about affecting different branches.
+
