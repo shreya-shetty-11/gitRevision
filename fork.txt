@@ -1,0 +1,4 @@
+* A fork is a copy of a repository. This is useful when you want to contribute to someone else's project or start your own project based on theirs.
+* A clone is a full copy of a repository, including all logging and versions of files.
+
+
