@@ -1,3 +1,9 @@
+
+List all the remote repos
 * git remote -v
+
+Adds remote repo
 * git remote add origin ssh-link
+
+To rename a repo
 * git remote rename origin new_name
