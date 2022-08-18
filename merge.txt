@@ -1,3 +1,5 @@
 Merging takes your branch changes and implements them into the main branch. Depending on the commit history, Git performs merges two ways: fast-forward and three-way merge.
 Adding line 2 to the merge text file.
-
+git merge <commit_id>
+git merge master
+git merge <branch_name>
